@@ -154,3 +154,26 @@ Update this file at the end of each meaningful work session. Keep completed work
 
 Do not delete an unresolved issue just to make the project appear complete. Record the resolution and the test evidence when it is actually fixed.
 
+
+### Phase 1 — Environment and Git Foundations
+
+**Status:** In progress
+
+**Completed**
+- Verified Node.js: `v24.20.0`
+- Verified npm: `11.19.0`
+- Verified Git: `2.55.0.windows.4`
+- Verified Git identity is configured.
+- Initialized Git in the project root.
+- Renamed the current branch to `main`.
+- Staged and committed the five planning documents.
+- First commit: `9a3a6f6` — `docs: save project planning`
+- Configured global Git default branch as `main`.
+- Verified repository root: `D:/VS Code file/a-little-world`
+- Verified clean working tree with `git status`.
+
+**Files created or modified during Phase 1:** No application files. The `.git` directory was created for version control.
+
+**Next action:** Continue environment verification and finish the Phase 1 checklist. Do not start application implementation until Phase 1 is complete.
+
+
